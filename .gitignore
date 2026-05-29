@@ -1,0 +1,12 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+*.log
+coverage
+.pytest_cache
+ml/models/*.joblib
+ml/data/*.csv
