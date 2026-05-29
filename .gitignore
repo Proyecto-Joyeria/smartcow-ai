@@ -10,3 +10,5 @@ coverage
 .pytest_cache
 ml/models/*.joblib
 ml/data/*.csv
+
+.claude/
