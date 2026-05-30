@@ -13,4 +13,4 @@ ml/data/*.csv
 
 .claude/
 
-.docs/
+docs/
