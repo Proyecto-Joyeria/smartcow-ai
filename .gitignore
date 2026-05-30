@@ -12,3 +12,5 @@ ml/models/*.joblib
 ml/data/*.csv
 
 .claude/
+
+.docs/
